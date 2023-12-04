@@ -7,4 +7,6 @@ FILE HANDLING YANG BISA MELAKUKAN BEBERAPA FITUR SEPERTI BERIKUT:
 4. Bisa Delete Data
 5. Bisa Search Data (Opsional)
  ## CONTOH OUTPUT
-![modul 5](https://github.com/Naufallm/FileHandling-/assets/130893000/fb84f5dd-6835-4200-996c-4aa49cc72d0f)
+<p align="center">
+  <img src ="https://github.com/Naufallm/FileHandling-/assets/130893000/fb84f5dd-6835-4200-996c-4aa49cc72d0f)" />
+</p>
